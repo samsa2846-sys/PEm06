@@ -1,0 +1,17 @@
+{
+  "name": "license-recognition-function",
+  "version": "1.0.0",
+  "description": "Yandex Cloud Function for driver's license recognition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": "16"
+  }
+}
+
+
